@@ -19,7 +19,7 @@ This is a simple Face Recognition application built with Python and Kivy, enabli
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/FaceRecognitionApp.git
+   git clone https://github.com/PazMiz/FaceRecognition_Kivy
 
 
 # pip install opencv-python numpy kivy face_recognition
@@ -39,4 +39,3 @@ This is a simple Face Recognition application built with Python and Kivy, enabli
 
 # Developed by Paz. This project utilizes various open-source packages.
 
-# FaceRecognition_Kivy
