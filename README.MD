@@ -39,3 +39,4 @@ This is a simple Face Recognition application built with Python and Kivy, enabli
 
 # Developed by Paz. This project utilizes various open-source packages.
 
+# FaceRecognition_Kivy
